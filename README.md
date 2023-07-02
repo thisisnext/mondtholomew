@@ -1,4 +1,8 @@
-# Mondtholomew
+# thisisnext-mondtholomew configs
+
+## changes in this fork:
+
+- check releases
 
 Mond but it work
 
